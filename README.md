@@ -1,1 +1,1 @@
-# Topicos-programacion
+# Imagen de fondo en un Jlabel
